@@ -1,0 +1,56 @@
+# Dependencias
+node_modules/
+
+# Compilados
+dist/
+dist-ssr/
+build/
+*.tsbuildinfo
+
+# Cachés, cobertura e informes
+.vite/
+.cache/
+.eslintcache
+coverage/
+
+# Registros y temporales
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+credentials*.json
+service-account*.json
+secrets*.json
+client_secret*.json
+
+# Configuración local de herramientas y editores
+.claude/*
+!.claude/launch.json
+.vscode/
+.idea/
+*.local
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Material de referencia con datos de terceros (se conserva solo en local):
+# la grabación de Instagram muestra usuarios y caras de personas.
+recursos/referencias/instagram_referencia.mp4

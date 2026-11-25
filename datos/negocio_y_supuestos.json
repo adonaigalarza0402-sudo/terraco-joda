@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "fecha": "2026-11-22",
+  "hechos_transcritos_de_material_del_usuario": {
+    "marca": "TERRACO SOCIAL CLUB",
+    "instagram": "terracosocialclub",
+    "whatsapp_visible": "+54 9 3725 50-2750",
+    "whatsapp_numero_normalizado": "5493725502750",
+    "whatsapp_url": "https://wa.me/5493725502750",
+    "correo": "terracosocialclub@gmail.com",
+    "direccion": "Passo 222, H3509, Gral. José de San Martín, Chaco, Argentina",
+    "reservas": "WhatsApp, segun el usuario; confirmacion a cargo del local",
+    "dias_visibles_instagram": [
+      "viernes",
+      "sabado"
+    ],
+    "franja_visible_whatsapp": "00:00-06:00; captura parcial, no horario semanal completo",
+    "oferta": [
+      "cena",
+      "shows en algunas fechas",
+      "DJ y baile"
+    ],
+    "artista_historico": "Alan Gómez; no confirma una próxima actuación"
+  },
+  "configuracion_de_demostracion_propuesta_no_validada_por_el_local": {
+    "rotulo": "Demo: datos, horarios y pagos de prueba",
+    "zona_horaria": "America/Argentina/Buenos_Aires",
+    "reloj_controlado": true,
+    "noche_ejemplo": "2026-11-21",
+    "fecha_hora_inicial_ejemplo": "2026-11-21T22:00:00-03:00",
+    "nota_fecha": "Fecha fija ficticia para repetir pruebas; no es programacion real.",
+    "momentos": [
+      {
+        "nombre": "Cena",
+        "inicio_ejemplo": "21:00",
+        "dia_relativo": 0
+      },
+      {
+        "nombre": "Show de demostracion",
+        "inicio_ejemplo": "22:30",
+        "dia_relativo": 0
+      },
+      {
+        "nombre": "Joda / DJ residente de demostracion",
+        "inicio_ejemplo": "00:30",
+        "dia_relativo": 1
+      }
+    ],
+    "estaciones_ejemplo": [
+      "Caja demo",
+      "Cocina demo",
+      "Barra demo",
+      "Retiro demo"
+    ],
+    "mesas_demo": [
+      {
+        "id": "demo-mesa-1",
+        "plazas_ejemplo": 4
+      },
+      {
+        "id": "demo-mesa-2",
+        "plazas_ejemplo": 4
+      },
+      {
+        "id": "demo-mesa-3",
+        "plazas_ejemplo": 4
+      },
+      {
+        "id": "demo-mesa-4",
+        "plazas_ejemplo": 4
+      },
+      {
+        "id": "demo-mesa-5",
+        "plazas_ejemplo": 6
+      },
+      {
+        "id": "demo-mesa-6",
+        "plazas_ejemplo": 6
+      }
+    ],
+    "nota_mesas": "No equivalen a aforo real ni autorizan reservas automaticamente.",
+    "modalidad_comida": "Retiro como valor de prueba; permitir cambiar a servicio a mesa",
+    "stock": "Sembrar cantidades ficticias separadas de los datos de carta y un escenario de ultima unidad.",
+    "plazo_reserva_stock_segundos_ejemplo": 300,
+    "plazo_ronda_avanzada_segundos_ejemplo": 180,
+    "nota_plazos": "Ajustables y acelerables con reloj de demo; no son politicas del local ni del proveedor de pago.",
+    "beneficio": {
+      "umbral_visitas_ejemplo": 8,
+      "tipo": "Cupon de demostracion",
+      "descuento_y_tope": null,
+      "nota": "Definir un ejemplo rotulado durante la implementacion; no hay promocion aprobada."
+    },
+    "politica_empate_encuesta": "El DJ decide; anunciar antes de abrir.",
+    "regla_atribucion": "Ultimo enlace identificado dentro del recorrido de consulta de reserva.",
+    "presentaciones_ambiguas": {
+      "pizzas": "Usar 20000 ARS por variedad solo como supuesto de demo; conservar advertencia del encabezado.",
+      "empanadas": "No inferir pack oficial x4. Mostrar referencia y, si hace falta para demo, configurar docena de prueba con seleccion de sabores expresamente ficticia.",
+      "whisky_vasos": "Mantener consultables sin inventar volumen o habilitar solo mediante supuesto visible.",
+      "gin_frutos_rojos": "No establecer recargo ni gratuidad como dato real; consulta o modificador ficticio identificado."
+    }
+  },
+  "pendientes_antes_de_operar": [
+    "Validar catalogo, precios, formatos, ingredientes y disponibilidad actuales.",
+    "Conocer sistema de QR y caja actual y su capacidad de integracion.",
+    "Confirmar entrega de comida, puestos y responsables.",
+    "Relevar mesas, reservas, aforo y condiciones por fecha.",
+    "Confirmar horarios de cada servicio y programacion futura.",
+    "Elegir proveedor de pago y validar cobros, devoluciones y conciliacion.",
+    "Implementar servidor, autenticacion, permisos y control de entrega de produccion.",
+    "Comprobar red, dispositivos y contingencia durante un pico.",
+    "Acordar participacion del DJ y verificacion de asistencia.",
+    "Definir incentivo sostenible, metricas del piloto y soporte."
+  ],
+  "prohibiciones_de_esta_demo": [
+    "No hacer cobros reales ni pedir credenciales de pago.",
+    "No enviar reservas o mensajes externos automaticamente.",
+    "No cargar datos de clientes reales.",
+    "No presentar selector de rol o almacenamiento local como seguridad de produccion.",
+    "No publicar artistas historicos como agenda futura confirmada."
+  ]
+}

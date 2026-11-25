@@ -1,0 +1,2765 @@
+{
+  "schema_version": "1.0",
+  "fecha_transcripcion": "2026-11-22",
+  "marca": "TERRACO SOCIAL CLUB",
+  "moneda_de_trabajo": "ARS",
+  "unidad_importes_numericos": "centavos",
+  "advertencia": "Precios de capturas para demo. No confirman vigencia, stock, volumen, ingredientes completos ni aptitud alimentaria.",
+  "numero_referencias_base": 99,
+  "numero_categorias": 18,
+  "nota_referencias": "Una referencia puede tener varios sabores o formatos; no es el numero de SKU finales.",
+  "categorias": [
+    {
+      "nombre": "Tragos",
+      "referencias": 13
+    },
+    {
+      "nombre": "Tragos especiales",
+      "referencias": 8
+    },
+    {
+      "nombre": "TerraTikis",
+      "referencias": 3
+    },
+    {
+      "nombre": "Whisky",
+      "referencias": 4
+    },
+    {
+      "nombre": "Licor",
+      "referencias": 2
+    },
+    {
+      "nombre": "Champagne",
+      "referencias": 8
+    },
+    {
+      "nombre": "Vodka",
+      "referencias": 6
+    },
+    {
+      "nombre": "Gin",
+      "referencias": 4
+    },
+    {
+      "nombre": "Energizantes",
+      "referencias": 4
+    },
+    {
+      "nombre": "Vinos",
+      "referencias": 6
+    },
+    {
+      "nombre": "Fernet Branca",
+      "referencias": 2
+    },
+    {
+      "nombre": "Cerveza",
+      "referencias": 7
+    },
+    {
+      "nombre": "Chopp cerveza",
+      "referencias": 3
+    },
+    {
+      "nombre": "Sin alcohol",
+      "referencias": 9
+    },
+    {
+      "nombre": "Entradas para compartir",
+      "referencias": 6
+    },
+    {
+      "nombre": "Sándwiches",
+      "referencias": 2
+    },
+    {
+      "nombre": "Pizzas",
+      "referencias": 9
+    },
+    {
+      "nombre": "Empanadas",
+      "referencias": 3
+    }
+  ],
+  "referencias": [
+    {
+      "id": "terraco-001",
+      "categoria": "Tragos",
+      "nombre": "Daikiri",
+      "descripcion_publicada": "Ron blanco, pulpa de frutas, limón",
+      "variantes_texto_publicado": "Frutilla; durazno; ananá; maracuyá",
+      "sabores_publicados": [
+        "Frutilla",
+        "durazno",
+        "ananá",
+        "maracuyá"
+      ],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Frutilla; durazno; ananá; maracuyá",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-002",
+      "categoria": "Tragos",
+      "nombre": "Caipirinha",
+      "descripcion_publicada": "Cachaza, lima, soda",
+      "variantes_texto_publicado": "Tradicional; frutos rojos",
+      "sabores_publicados": [
+        "Tradicional",
+        "frutos rojos"
+      ],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tradicional; frutos rojos",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-003",
+      "categoria": "Tragos",
+      "nombre": "Caipiroska",
+      "descripcion_publicada": "Vodka, lima, soda",
+      "variantes_texto_publicado": "Tradicional; frutos rojos",
+      "sabores_publicados": [
+        "Tradicional",
+        "frutos rojos"
+      ],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tradicional; frutos rojos",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-004",
+      "categoria": "Tragos",
+      "nombre": "Caipicoco",
+      "descripcion_publicada": "Lima, licor de coco, soda",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-005",
+      "categoria": "Tragos",
+      "nombre": "Aperol Spritz",
+      "descripcion_publicada": "Aperol, espumante, soda, naranja",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-006",
+      "categoria": "Tragos",
+      "nombre": "Campari",
+      "descripcion_publicada": "Campari y jugo de naranja",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-007",
+      "categoria": "Tragos",
+      "nombre": "Mojito",
+      "descripcion_publicada": "Ron blanco, menta, lima, almíbar, soda",
+      "variantes_texto_publicado": "Tradicional; frutos rojos",
+      "sabores_publicados": [
+        "Tradicional",
+        "frutos rojos"
+      ],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tradicional; frutos rojos",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-008",
+      "categoria": "Tragos",
+      "nombre": "Cuba Libre",
+      "descripcion_publicada": "Ron blanco Havana Club, limón, Coca Cola",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-009",
+      "categoria": "Tragos",
+      "nombre": "Gancia batido",
+      "descripcion_publicada": "Gancia, limón, Sprite",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-010",
+      "categoria": "Tragos",
+      "nombre": "Bacardi Tonic",
+      "descripcion_publicada": "Ron Bacardi, tónica",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-011",
+      "categoria": "Tragos",
+      "nombre": "Cinzano",
+      "descripcion_publicada": "Vermouth Cinzano, tónica, lima",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-012",
+      "categoria": "Tragos",
+      "nombre": "Destornillador",
+      "descripcion_publicada": "Vodka y jugo de naranja",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-013",
+      "categoria": "Tragos",
+      "nombre": "Tequila José Cuervo",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "En shot",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "En shot",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M1",
+      "fuente_archivo": "recursos/cartas/01_tragos.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-014",
+      "categoria": "Tragos especiales",
+      "nombre": "Cosmopolitan",
+      "descripcion_publicada": "Vodka, licor triple sec, granadina, cereza, limón",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-015",
+      "categoria": "Tragos especiales",
+      "nombre": "Sex on the Beach",
+      "descripcion_publicada": "Vodka, licor de durazno, granadina, jugo de naranja",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-016",
+      "categoria": "Tragos especiales",
+      "nombre": "Cynar Julep",
+      "descripcion_publicada": "Cynar, menta, gaseosa pomelo, lima, almíbar",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-017",
+      "categoria": "Tragos especiales",
+      "nombre": "Mint Julep",
+      "descripcion_publicada": "Whisky bourbon, menta, almíbar, jengibre",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-018",
+      "categoria": "Tragos especiales",
+      "nombre": "Negroni",
+      "descripcion_publicada": "Gin, vermouth rosso, Campari",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-019",
+      "categoria": "Tragos especiales",
+      "nombre": "Galáctica",
+      "descripcion_publicada": "Amarula, licor dulce de leche, vodka, salsa de chocolate, chocolate rallado, Americana Capricho",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Transcripción literal de la preparación; confirmar a qué corresponde Americana Capricho.",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-020",
+      "categoria": "Tragos especiales",
+      "nombre": "Jäggerboom",
+      "descripcion_publicada": "Jägermeister, cerveza Corona",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "La carta dice cerveza Corona. No sustituir por otra receta sin confirmación.",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-021",
+      "categoria": "Tragos especiales",
+      "nombre": "Caribe",
+      "descripcion_publicada": "Blue Curaçao, Malibú, Sprite, coco rallado",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-022",
+      "categoria": "TerraTikis",
+      "nombre": "Eclipse Tiki",
+      "descripcion_publicada": "Miel, ron dorado, Campari, ananá, azúcar impalpable y canela",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-023",
+      "categoria": "TerraTikis",
+      "nombre": "Solaris Tiki",
+      "descripcion_publicada": "Absenta, ron blanco y dorado, licor de pistacho, albahaca, gaseosa pomelo",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-024",
+      "categoria": "TerraTikis",
+      "nombre": "Estelar Tiki",
+      "descripcion_publicada": "Whisky, ron Havana, tequila blanco, lima, jengibre",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M2",
+      "fuente_archivo": "recursos/cartas/02_especiales_y_terra_tikis.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-025",
+      "categoria": "Whisky",
+      "nombre": "JW - Red Label",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Ícono vaso; ícono vaso con 2; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$7.000 / $12.000 / $85.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Icono vaso 1: volumen pendiente",
+          "precio_total_centavos": 700000,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Icono vaso con 2: significado pendiente",
+          "precio_total_centavos": 1200000,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 8500000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "Confirmar el significado y volumen de los dos íconos de vaso.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-026",
+      "categoria": "Whisky",
+      "nombre": "JW - Black Label",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Ícono vaso; ícono vaso con 2; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000 / $18.000 / $105.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Icono vaso 1: volumen pendiente",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Icono vaso con 2: significado pendiente",
+          "precio_total_centavos": 1800000,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 10500000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "Confirmar el significado y volumen de los dos íconos de vaso.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-027",
+      "categoria": "Whisky",
+      "nombre": "Jack Daniel N°7",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Ícono vaso; ícono vaso con 2; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000 / $18.000 / $105.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Icono vaso 1: volumen pendiente",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Icono vaso con 2: significado pendiente",
+          "precio_total_centavos": 1800000,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 10500000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "Nombre transcrito de la carta; volúmenes pendientes.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-028",
+      "categoria": "Whisky",
+      "nombre": "Jack Daniel 3 L",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella de 3 L",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "— / — / $350.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella de 3 L",
+          "precio_total_centavos": 35000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "Los guiones no se interpretan como precio cero ni como agotado.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-029",
+      "categoria": "Licor",
+      "nombre": "Jägermeister",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Presentación no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$65.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentación no detallada",
+          "precio_total_centavos": 6500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar volumen y presentación.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-030",
+      "categoria": "Licor",
+      "nombre": "Jägermeister Orange",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Presentación no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$95.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentación no detallada",
+          "precio_total_centavos": 9500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar volumen y presentación.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-031",
+      "categoria": "Champagne",
+      "nombre": "Chandon Delice",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$40.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella",
+          "precio_total_centavos": 4000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Denominación según carta; confirmar etiquetas y tamaños.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-032",
+      "categoria": "Champagne",
+      "nombre": "Chandon Aperitiff",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$40.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella",
+          "precio_total_centavos": 4000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Denominación según carta; confirmar etiquetas y tamaños.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-033",
+      "categoria": "Champagne",
+      "nombre": "Chandon Extra Brut",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$40.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella",
+          "precio_total_centavos": 4000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Denominación según carta; confirmar etiquetas y tamaños.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-034",
+      "categoria": "Champagne",
+      "nombre": "Chandon Rose Delice",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$40.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella",
+          "precio_total_centavos": 4000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Denominación según carta; confirmar etiquetas y tamaños.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-035",
+      "categoria": "Champagne",
+      "nombre": "Chandon Demi Sec",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$40.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella",
+          "precio_total_centavos": 4000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Denominación según carta; confirmar etiquetas y tamaños.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-036",
+      "categoria": "Champagne",
+      "nombre": "Barón B Extra Brut",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$70.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella",
+          "precio_total_centavos": 7000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Denominación según carta; confirmar etiquetas y tamaños.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-037",
+      "categoria": "Champagne",
+      "nombre": "Pommery Brut",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$200.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella",
+          "precio_total_centavos": 20000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Denominación según carta; confirmar etiquetas y tamaños.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-038",
+      "categoria": "Champagne",
+      "nombre": "Moet CH BR",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$280.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella",
+          "precio_total_centavos": 28000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Denominación según carta; confirmar etiquetas y tamaños.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-039",
+      "categoria": "Vodka",
+      "nombre": "Smirnoff",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "— / $25.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 2500000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "No se publican volúmenes; guion = sin precio publicado para ese formato.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-040",
+      "categoria": "Vodka",
+      "nombre": "Absolut",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000 / $60.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Vaso: volumen no publicado",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 6000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "No se publican volúmenes; guion = sin precio publicado para ese formato.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-041",
+      "categoria": "Vodka",
+      "nombre": "Grey Goose",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "— / $130.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 13000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "No se publican volúmenes; guion = sin precio publicado para ese formato.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-042",
+      "categoria": "Vodka",
+      "nombre": "Ciroc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "— / $150.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 15000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "No se publican volúmenes; guion = sin precio publicado para ese formato.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-043",
+      "categoria": "Vodka",
+      "nombre": "Belvedere",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "— / $170.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 17000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "No se publican volúmenes; guion = sin precio publicado para ese formato.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-044",
+      "categoria": "Vodka",
+      "nombre": "Roberto Cavalli",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "— / $200.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 20000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "No se publican volúmenes; guion = sin precio publicado para ese formato.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-045",
+      "categoria": "Gin",
+      "nombre": "Heredero",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella; opción frutos rojos",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000 / $30.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Vaso: volumen no publicado",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "extra_pendiente": "Frutos rojos: recargo y aplicacion no publicados"
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 3000000,
+          "requiere_confirmacion": false,
+          "extra_pendiente": "Frutos rojos: recargo y aplicacion no publicados"
+        }
+      ],
+      "observaciones": "La opción frutos rojos no tiene recargo publicado. Confirmar composición, tamaños y grafía comercial; no asumir mezcladores incluidos.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-046",
+      "categoria": "Gin",
+      "nombre": "Bombay",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella; opción frutos rojos",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000 / $65.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Vaso: volumen no publicado",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "extra_pendiente": "Frutos rojos: recargo y aplicacion no publicados"
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 6500000,
+          "requiere_confirmacion": false,
+          "extra_pendiente": "Frutos rojos: recargo y aplicacion no publicados"
+        }
+      ],
+      "observaciones": "La opción frutos rojos no tiene recargo publicado. Confirmar composición, tamaños y grafía comercial; no asumir mezcladores incluidos.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-047",
+      "categoria": "Gin",
+      "nombre": "Befeeter",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella; opción frutos rojos",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000 / $55.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Vaso: volumen no publicado",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "extra_pendiente": "Frutos rojos: recargo y aplicacion no publicados"
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 5500000,
+          "requiere_confirmacion": false,
+          "extra_pendiente": "Frutos rojos: recargo y aplicacion no publicados"
+        }
+      ],
+      "observaciones": "La opción frutos rojos no tiene recargo publicado. Confirmar composición, tamaños y grafía comercial; no asumir mezcladores incluidos.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-048",
+      "categoria": "Gin",
+      "nombre": "Tanqueray",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso; botella; opción frutos rojos",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000 / $65.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Vaso: volumen no publicado",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "extra_pendiente": "Frutos rojos: recargo y aplicacion no publicados"
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Botella: volumen no publicado",
+          "precio_total_centavos": 6500000,
+          "requiere_confirmacion": false,
+          "extra_pendiente": "Frutos rojos: recargo y aplicacion no publicados"
+        }
+      ],
+      "observaciones": "La opción frutos rojos no tiene recargo publicado. Confirmar composición, tamaños y grafía comercial; no asumir mezcladores incluidos.",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-049",
+      "categoria": "Energizantes",
+      "nombre": "Speed 473 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x3",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $15.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x3",
+          "cantidad": 3,
+          "precio_total_centavos": 1500000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-050",
+      "categoria": "Energizantes",
+      "nombre": "Monster 473 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x3",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $15.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x3",
+          "cantidad": 3,
+          "precio_total_centavos": 1500000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-051",
+      "categoria": "Energizantes",
+      "nombre": "Monster Mango Loco 473 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x3",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $15.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x3",
+          "cantidad": 3,
+          "precio_total_centavos": 1500000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-052",
+      "categoria": "Energizantes",
+      "nombre": "Redbull 269 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x3",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $15.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x3",
+          "cantidad": 3,
+          "precio_total_centavos": 1500000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M3",
+      "fuente_archivo": "recursos/cartas/03_destilados_y_energizantes.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-053",
+      "categoria": "Vinos",
+      "nombre": "Dilema (blanco)",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Presentación no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$15.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentación no detallada",
+          "precio_total_centavos": 1500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar volumen.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-054",
+      "categoria": "Vinos",
+      "nombre": "Colón (frutos rojos)",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Presentación no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$15.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentación no detallada",
+          "precio_total_centavos": 1500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar volumen.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-055",
+      "categoria": "Vinos",
+      "nombre": "Colón (durazno)",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Presentación no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$15.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentación no detallada",
+          "precio_total_centavos": 1500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar volumen.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-056",
+      "categoria": "Vinos",
+      "nombre": "Santa Julia (blanco Chenin)",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Presentación no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentación no detallada",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar volumen.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-057",
+      "categoria": "Vinos",
+      "nombre": "Trumpeter (Malbec)",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Presentación no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$25.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentación no detallada",
+          "precio_total_centavos": 2500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar volumen.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-058",
+      "categoria": "Vinos",
+      "nombre": "Rutini (Cabernet-Malbec)",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Presentación no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$35.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentación no detallada",
+          "precio_total_centavos": 3500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar volumen.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-059",
+      "categoria": "Fernet Branca",
+      "nombre": "Cordobés",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Vaso 800 cc",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$10.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Vaso 800 cc",
+          "precio_total_centavos": 1000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-060",
+      "categoria": "Fernet Branca",
+      "nombre": "Botella 750 cc + 5 latas de Coca",
+      "descripcion_publicada": "Fernet Branca y cinco latas de Coca",
+      "variantes_texto_publicado": "Combo",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$60.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Combo",
+          "precio_total_centavos": 6000000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "No se publica volumen de las latas.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-061",
+      "categoria": "Cerveza",
+      "nombre": "Corona botellita 330 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x4",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4",
+          "cantidad": 4,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-062",
+      "categoria": "Cerveza",
+      "nombre": "Heineken botellita 330 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x4",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4",
+          "cantidad": 4,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-063",
+      "categoria": "Cerveza",
+      "nombre": "Stella botellita 330 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x4",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4",
+          "cantidad": 4,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-064",
+      "categoria": "Cerveza",
+      "nombre": "Stella Pure Gold",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x4",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4",
+          "cantidad": 4,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "No se publica el volumen en esa línea.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-065",
+      "categoria": "Cerveza",
+      "nombre": "Michelob botellita",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x4",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4",
+          "cantidad": 4,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "Hay un distintivo Sin TACC en la captura: verificar con el local y el producto.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-066",
+      "categoria": "Cerveza",
+      "nombre": "Corona sin alcohol 330 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x4",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4",
+          "cantidad": 4,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-067",
+      "categoria": "Cerveza",
+      "nombre": "Stella sin alcohol 330 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "x1; x4",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000 / $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x1",
+          "cantidad": 1,
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4",
+          "cantidad": 4,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": false
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-068",
+      "categoria": "Chopp cerveza",
+      "nombre": "Pinta Stella",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Pinta",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$7.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Pinta",
+          "precio_total_centavos": 700000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "La carta no indica capacidad de la pinta.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-069",
+      "categoria": "Chopp cerveza",
+      "nombre": "Pinta Patagonia",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Pinta",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$7.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Pinta",
+          "precio_total_centavos": 700000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "La carta no indica capacidad de la pinta.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-070",
+      "categoria": "Chopp cerveza",
+      "nombre": "Pinta Capataz",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Pinta",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$5.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Pinta",
+          "precio_total_centavos": 500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "La carta no indica capacidad de la pinta.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-071",
+      "categoria": "Sin alcohol",
+      "nombre": "Agua 600 cc",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$3.500",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 350000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-072",
+      "categoria": "Sin alcohol",
+      "nombre": "Gaseosa Coca Cola - lata",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$4.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 400000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-073",
+      "categoria": "Sin alcohol",
+      "nombre": "Gaseosa Coca Cola Zero - lata",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$4.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 400000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-074",
+      "categoria": "Sin alcohol",
+      "nombre": "Gaseosa Sprite - lata",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$4.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 400000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-075",
+      "categoria": "Sin alcohol",
+      "nombre": "Gaseosa pomelo - lata",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$4.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 400000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-076",
+      "categoria": "Sin alcohol",
+      "nombre": "Agua tónica - lata",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$4.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 400000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-077",
+      "categoria": "Sin alcohol",
+      "nombre": "Jarra limonada TERRACO",
+      "descripcion_publicada": "Jugo de limón y menta",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$12.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 1200000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-078",
+      "categoria": "Sin alcohol",
+      "nombre": "Jarra jugo tropical",
+      "descripcion_publicada": "Jugo de limón y frutos rojos",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$12.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 1200000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-079",
+      "categoria": "Sin alcohol",
+      "nombre": "Jarra jugo pomelada",
+      "descripcion_publicada": "Jugo de naranja y pomelo",
+      "variantes_texto_publicado": "Según denominación",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$12.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Según denominación",
+          "precio_total_centavos": 1200000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Capacidad no publicada salvo donde se expresa en el nombre.",
+      "fuente_codigo": "M4",
+      "fuente_archivo": "recursos/cartas/04_vinos_cervezas_y_sin_alcohol.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-080",
+      "categoria": "Entradas para compartir",
+      "nombre": "Mandioca fritas",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Porción no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Porción no detallada",
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar tamaño, cantidades y composición de los combos.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-081",
+      "categoria": "Entradas para compartir",
+      "nombre": "Porción de papas",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Porción no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Porción no detallada",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar tamaño, cantidades y composición de los combos.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-082",
+      "categoria": "Entradas para compartir",
+      "nombre": "Papas rústicas sazonadas",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Porción no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Porción no detallada",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar tamaño, cantidades y composición de los combos.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-083",
+      "categoria": "Entradas para compartir",
+      "nombre": "Porción de papas + sándwiches de miga",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Porción no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$15.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Porción no detallada",
+          "precio_total_centavos": 1500000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar tamaño, cantidades y composición de los combos.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-084",
+      "categoria": "Entradas para compartir",
+      "nombre": "Porción de papas + milas",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Porción no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$16.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Porción no detallada",
+          "precio_total_centavos": 1600000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar tamaño, cantidades y composición de los combos.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-085",
+      "categoria": "Entradas para compartir",
+      "nombre": "Rabas a la romana",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "Porción no detallada",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$17.500",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Porción no detallada",
+          "precio_total_centavos": 1750000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "Confirmar tamaño, cantidades y composición de los combos.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-086",
+      "categoria": "Sándwiches",
+      "nombre": "Sándwich de bondiola",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$6.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 600000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-087",
+      "categoria": "Sándwiches",
+      "nombre": "Sándwich de picaña",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$8.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Presentacion de carta",
+          "precio_total_centavos": 800000,
+          "requiere_confirmacion": false,
+          "motivo_confirmacion": null
+        }
+      ],
+      "observaciones": "",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-088",
+      "categoria": "Pizzas",
+      "nombre": "Margarita",
+      "descripcion_publicada": "Mozzarella, albahaca fresca",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "Confirmar que el precio común del encabezado aplica a todas las variedades.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-089",
+      "categoria": "Pizzas",
+      "nombre": "Fugazzetta",
+      "descripcion_publicada": "Mozzarella, parmesano, cebolla morada, aceite de oliva",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "Confirmar que el precio común del encabezado aplica a todas las variedades.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-090",
+      "categoria": "Pizzas",
+      "nombre": "Nápoles",
+      "descripcion_publicada": "Mozzarella, cherrys, albahaca",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "Confirmar que el precio común del encabezado aplica a todas las variedades.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-091",
+      "categoria": "Pizzas",
+      "nombre": "Jamón y morrones",
+      "descripcion_publicada": "Mozzarella, parmesano, morrones en conserva, orégano",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "El nombre incluye jamón, pero no aparece en la descripción impresa. Confirmar receta.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-092",
+      "categoria": "Pizzas",
+      "nombre": "Cuatro quesos",
+      "descripcion_publicada": "Mozzarella, parmesano, queso azul, provolone, orégano",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "Confirmar que el precio común del encabezado aplica a todas las variedades.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-093",
+      "categoria": "Pizzas",
+      "nombre": "Pepperoni",
+      "descripcion_publicada": "Parmesano y pepperoni",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "Confirmar que el precio común del encabezado aplica a todas las variedades.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-094",
+      "categoria": "Pizzas",
+      "nombre": "Mortadela con pistachos",
+      "descripcion_publicada": "Mozzarella, mortadela y pistachos",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "Confirmar que el precio común del encabezado aplica a todas las variedades.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-095",
+      "categoria": "Pizzas",
+      "nombre": "Mediterránea",
+      "descripcion_publicada": "Parmesano, jamón crudo, aceitunas negras",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "Confirmar que el precio común del encabezado aplica a todas las variedades.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-096",
+      "categoria": "Pizzas",
+      "nombre": "Panceta",
+      "descripcion_publicada": "Parmesano, mozzarella, panceta ahumada",
+      "variantes_texto_publicado": "Tamaño no publicado",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "$20.000 — precio del encabezado",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "Tamaño no publicado",
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "motivo_confirmacion": "Precio del encabezado, confirmar aplicacion a cada variedad"
+        }
+      ],
+      "observaciones": "Confirmar que el precio común del encabezado aplica a todas las variedades.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-097",
+      "categoria": "Empanadas",
+      "nombre": "Carne cortada a cuchillo",
+      "descripcion_publicada": "Con pasas y aceitunas",
+      "variantes_texto_publicado": "La imagen rotula x4 y x12",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "x4: $2.000 c/u; x12: $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4: $2.000 c/u",
+          "precio_unitario_centavos": 200000,
+          "rotulo_cantidad": 4,
+          "precio_total_pack_centavos": null,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x12: $20.000",
+          "cantidad": 12,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "pendiente": "Regla de seleccion y combinacion de sabores"
+        }
+      ],
+      "observaciones": "Confirmar si x4 significa mínimo de cuatro, precio del pack y posibilidad de combinar sabores. No crear automáticamente un pack oficial de $8.000.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-098",
+      "categoria": "Empanadas",
+      "nombre": "Carne desmechada",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "La imagen rotula x4 y x12",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "x4: $2.000 c/u; x12: $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4: $2.000 c/u",
+          "precio_unitario_centavos": 200000,
+          "rotulo_cantidad": 4,
+          "precio_total_pack_centavos": null,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x12: $20.000",
+          "cantidad": 12,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "pendiente": "Regla de seleccion y combinacion de sabores"
+        }
+      ],
+      "observaciones": "Confirmar si x4 significa mínimo de cuatro, precio del pack y posibilidad de combinar sabores. No crear automáticamente un pack oficial de $8.000.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    },
+    {
+      "id": "terraco-099",
+      "categoria": "Empanadas",
+      "nombre": "Jamón y queso",
+      "descripcion_publicada": "",
+      "variantes_texto_publicado": "La imagen rotula x4 y x12",
+      "sabores_publicados": [],
+      "precio_texto_publicado": "x4: $2.000 c/u; x12: $20.000",
+      "opciones_precio_transcritas": [
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x4: $2.000 c/u",
+          "precio_unitario_centavos": 200000,
+          "rotulo_cantidad": 4,
+          "precio_total_pack_centavos": null,
+          "requiere_confirmacion": true
+        },
+        {
+          "moneda": "ARS",
+          "origen": "transcripcion_de_carta_no_validada_comercialmente",
+          "etiqueta_fuente": "x12: $20.000",
+          "cantidad": 12,
+          "precio_total_centavos": 2000000,
+          "requiere_confirmacion": true,
+          "pendiente": "Regla de seleccion y combinacion de sabores"
+        }
+      ],
+      "observaciones": "Confirmar si x4 significa mínimo de cuatro, precio del pack y posibilidad de combinar sabores. No crear automáticamente un pack oficial de $8.000.",
+      "fuente_codigo": "M5",
+      "fuente_archivo": "recursos/cartas/05_comidas_para_compartir.png",
+      "stock_real": null,
+      "foto_producto_verificada": null,
+      "vigencia_comercial_verificada": false
+    }
+  ]
+}
